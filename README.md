@@ -1,2 +1,3 @@
-# segment-tree
-Segment tree
+# Segment tree
+
+https://en.wikipedia.org/wiki/Segment_tree
